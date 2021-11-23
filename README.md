@@ -12,7 +12,7 @@
 2. **Data wrangling** (to view it with web browser, please access it with notebook viewer) 
    https://nbviewer.jupyter.org/github/mendyhsu/Capstone/blob/master/a_data_wrangling.ipynb
    
-
 3. TBC
 
    
+
