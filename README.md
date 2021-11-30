@@ -7,9 +7,7 @@
    
    **energy_dataset.csv**, and **weather_features.csv** (**24.98 MB**) contain **four years** of electrical consumption, generation, pricing, and weather data for Spain. 
    
-   https://github.com/mendyhsu/Capstone/blob/master/EDA_fig/hourly_load.pdf
-   
-   ![html](/EDA_fig/hourly_load.pdf)
+   ![html](EDA_fig/hourly_load.pdf)
    
 2. **Data wrangling** (to view it with web browser, please access it with notebook viewer) 
    https://nbviewer.jupyter.org/github/mendyhsu/Capstone/blob/master/a_data_wrangling.ipynb
