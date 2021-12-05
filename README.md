@@ -9,14 +9,19 @@
    ![html](EDA_fig/hourly_load.pdf)
    
 2. **NoteBooks**
+   
    [**Data wrangling**](https://nbviewer.jupyter.org/github/mendyhsu/Capstone/blob/master/a_data_wrangling.ipynb)
+   
    [**EDA**](https://github.com/mendyhsu/Capstone/blob/master/b_EDA.ipynb)
+   
    [**SARIMAX Modeling**]( https://github.com/mendyhsu/Capstone/blob/master/d_TimeSeriesModeling.ipynb)
    
    
    
 2. **Documentation**
+   
    [**Slides**](Report/Capstone_Slides_%20Energy_Load_Forecast.pdf)
+   
    Report (TBC)
 
 ### SARIMAX Model Result Sammary
