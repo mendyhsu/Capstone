@@ -16,7 +16,7 @@ This project aims to build a time series forecasting model that can predict the 
 
    
 
-2.  [**Slides**](Report/Capstone_Slides_%20Energy_Load_Forecast.pdf) and [**Reoprt**](Report/Capstone_Report_ Energy_Load_Forecast.pdf) 
+2.  [**Slides**](Report/Capstone_Slides_%20Energy_Load_Forecast.pdf) and [**Reoprt**](Report/Capstone_Report_%20Energy_Load_Forecast.pdf) 
 
 
 
